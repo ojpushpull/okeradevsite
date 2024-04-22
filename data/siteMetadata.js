@@ -1,24 +1,19 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Okera Developer Blog',
+  title: 'Okera Johnson Developer Blog',
   author: 'Okera Johnson',
-  headerTitle: 'OJBlog',
+  headerTitle: 'Okera Johnson Blog',
   description: 'Developer Blog',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://okeraj.dev',
   siteRepo: 'https://github.com/ojpushpull/okeradevsite',
-  siteLogo: '/static/images/logo.png',
+  siteLogo: '/static/images/okeralogo.png',
   socialBanner: '/static/images/twitter-card.png',
-  mastodon: 'https://mastodon.social/@mastodonuser',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
+  email: 'okeraworks@gmail.com',
+  github: 'https://github.com/ojpushpull',
   twitter: 'https://twitter.com/ImJustBoolean',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
-  threads: 'https://www.threads.net',
-  instagram: 'https://www.instagram.com',
+  linkedin: 'https://www.linkedin.com/in/okera-johnson-91ba1010b/',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
