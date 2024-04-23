@@ -8,7 +8,7 @@ const siteMetadata = {
   theme: 'system', // system, dark or light
   siteUrl: 'https://okeraj.dev',
   siteRepo: 'https://github.com/ojpushpull/okeradevsite',
-  siteLogo: '/data/logo.svg',
+  siteLogo: '@/data/logo.svg',
   socialBanner: '/static/images/twitter-card.png',
   email: 'okeraworks@gmail.com',
   github: 'https://github.com/ojpushpull',
