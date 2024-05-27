@@ -18,7 +18,7 @@ const projectsData: Project[] = [
     description: `A project I cheffed up to create secure passwords that follow the
     guidelines outlined by the user such as special characters, length, etc and `,
     imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    href: 'https://github.com/ojpushpull/jay4',
   },
 ]
 
